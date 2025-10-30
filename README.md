@@ -1,8 +1,9 @@
 # ROSCon España 2025 – Companion Repository
 
 This repository collects the code, slides, and resources accompanying my two talks presented at **ROSCon España 2025**:
-* [Talk 1: ROS, LeRobot y un patito de goma — Robótica e inteligencia artificial accesible]()
-* [Talk 2: Sensores creativos mirando la pela]()
+
+* [Talk 1: ROS, LeRobot y un patito de goma](#talk-1-ros-lerobot-y-un-patito-de-goma)
+- [Talk 2: Sensores creativos mirando la pela](#talk-2-sensores-creativos-mirando-la-pela)
 
 Both sessions were part of the *Education* track and focused on making robotics and AI more accessible, creative, and affordable.
 
