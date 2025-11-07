@@ -16,13 +16,13 @@ Both sessions were part of the *Education* track and focused on making robotics 
 ### Abstract
 
 In this talk, we explore how far a 100 € open-source robotic arm (SOARM100) and a rubber duck can take us in the journey of learning about robotics.  
-From basic direct control, through more advanced model-based traditional robotics using ROS2 control and perception pipelines and then on to novel data-based approaches using imitation learning with pre-trained LeRobot models, we demonstrate how a simple, affordable setup can be a powerful educational tool when we leverage open source libraries, the **ROS** ecosystem of tools and **LeRobot**, the open AI robotics framework from Hugging Face. 
+From low-level direct control of servos, through model-based traditional robotics using ROS2 control and perception pipelines and then on to novel data-based approaches using imitation learning with pre-trained LeRobot models, we demonstrate how a simple, affordable setup can be a powerful educational tool when we leverage open source libraries, the **ROS** ecosystem of tools and **LeRobot**, the open AI robotics framework from Hugging Face. 
 
 A live demo was originally planned that could not fit in the shortened 20-minute slot, however all the materials and code used for the experiments are available here for the community to reproduce.
 
 ### Highlights
 
-- Real ROS 2 integration with MoveIt, Gazebo Harmonic, RViz, and OpenCV
+- ROS 2 integration with MoveIt, Gazebo Harmonic, RViz, and OpenCV
 - Application of LeRobot models for imitation learning and teleoperation
 - Open-source, accessible, and replicable hardware and software
 - Educational and community-oriented approach derived from projects presented at PyCamp España 2025 and PyConES 2025
@@ -31,8 +31,9 @@ A live demo was originally planned that could not fit in the shortened 20-minute
 
 - ROS 2 Jazzy
 - MoveIt 2, Gazebo Harmonic, RViz
+- Hugging Face LeRobot library
 - Python 3.10+
-- Optional: OpenCV, Hugging Face `lerobot` library
+- OpenCV
 
 ### Resources
 
@@ -49,7 +50,7 @@ A live demo was originally planned that could not fit in the shortened 20-minute
 
 ### Abstract
 
- Who says robotics requires expensive sensors? This talk presents three real examples of creative, low-cost hardware integrations for ROS 2 robots — designed to inspire experimentation, teaching, and rapid prototyping on a tight budget.
+Who says robotics requires expensive sensors? This talk presents three and a half real examples of creative, low-cost hardware integrations for ROS 2 robots — designed to inspire experimentation, teaching, and rapid prototyping on a tight budget.
 
 Three case studies are presented:
 
@@ -62,17 +63,17 @@ Each project includes open-source code, step-by-step build instructions, and ROS
 
 ### Highlights
 
-- Full ROS 2 integration (drivers, nodes, and examples)
+- ROS 2 integration (drivers, nodes, and examples)
 - Documented, reproducible hardware builds
-- Ideal for educators, makers, and researchers with limited budgets
+- Suited for educators, makers, and researchers with limited budgets
 - Promotes creativity, sustainability, and fun in robotics
 
 ### Requirements
 
 - ROS 2 Jazzy
-- MoveIt 2, Gazebo Harmonic, RViz
+- Gazebo Harmonic, RViz
 - Python 3.10+
-- Optional: OpenCV, Hugging Face `lerobot` library
+- Arduino IDE
 
 ### Resources
 
@@ -85,8 +86,6 @@ Each project includes open-source code, step-by-step build instructions, and ROS
 
 ## License and Acknowledgements
 
-All resources are provided for educational and community use under an open-source license.
- Special thanks to the ROS 2 and LeRobot communities, and to everyone contributing to accessible, open robotics.
+Original contributions (code, notes, etc) are provided for educational and community use under an open-source license. External resources quoted or linked from the repo are subject to their own licensing terms.
 
-
-
+Special thanks to the ROS 2 and LeRobot communities, and to everyone contributing to accessible, open robotics.

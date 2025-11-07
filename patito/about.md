@@ -1,16 +1,34 @@
-Original application to the CFP:
+# Original application to the ROSConES25 Call for Papers
 
-# ROS, LeRobot y un patito de goma: robótica e inteligencia artificial accesible
+## Título
+
+*Máx. 70 caracteres*
+
+ROS, LeRobot y un patito de goma: robótica e inteligencia artificial accesible
 
 ----
+
+## Resumen 
+
+*Max. 100 palabras, visible en el programa*
 
 ¿De verdad necesitamos URDFs kilométricos, solvers de cinemática inversa, hardware caro y entornos de simulación para controlar un manipulador robótico? En esta charla lo probamos: un brazo open-source de 100 € y un patito de goma nos sirven para demostrar en vivo el control básico a nivel de servo, aplicaciones avanzadas con ROS2 y finalmente modelos de IA de LeRobot que aprenden por demostración y funcionan sorprendentemente bien en el mundo real. Ningún animal de goma sufrirá daños en la demostración, pero alguna de las ideas tradicionales sobre robótica puede que sí.
 
 ----
 
+## A quien va dirigida
+
+En esta charla veremos varios ejemplos reales de soluciones creativas para integrar sensores de muy bajo coste en nuestros robots: hackeamos una webcam de AliExpress, retrofitamos una Kinect 360 de segunda mano, y construimos un sensor de tacto con imanes de nevera y estropajo de cocina. Todo documentado, reproducible e integrable en ROS con código abierto. Una invitación a experimentar, aprender y divertirse sin romper la hucha.
+
+----
+
+## Porque debemos seleccionarla
+
 Porque conecta ROS2 y LeRobot con un proyecto abierto, documentado y replicable que facilita a la comunidad el acceso a aplicaciones de inteligencia artificial para manipulación robótica. Además, la demo en vivo es la caña y si no aceptáis la charla el patito se pondrá muy triste.
 
 ----
+
+## Detalles
 
 Esta charla propone un recorrido práctico desde la robótica clásica con ROS2 hasta las nuevas técnicas de aprendizaje por imitación con LeRobot (Hugging Face), aplicado a un brazo robótico de bajo coste (SOARM100).
 
@@ -38,6 +56,3 @@ En resumen, esta charla aporta:
 - **Claridad y diversión**: demo en vivo con un guiño al patito de goma.
 
 Necesidades técnicas mínimas: una mesa y toma de corriente. Idealmente una cámara para mostrar en pantalla el brazo robótico en acción si la sala es grande, aunque no es imprescindible.
-
----
-
