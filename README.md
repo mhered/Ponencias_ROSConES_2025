@@ -38,9 +38,9 @@ A live demo was originally planned that could not fit in the shortened 20-minute
 ### Resources
 
 - [About the talk](./patito/about.md)
+- Slides used at ROSCon España 2025: [ROSConES25_ROS_Lerobot_patito_v1.1_ONLINE.pptx](https://1drv.ms/p/c/6d3f578aa3de1a64/EWnwXxY3nYZFtzqps1IWuUsB3WfCXBFiHg88qGFw6AZ3NA?e=ObfpTw)  (Link to OneDrive, large file)
 - [Source code](./patito/code.md)
 - [Notes](./patito/notes.md) including setup instructions to reproduce the demos and references and links to related projects and repositories
-- [Slides](./patito/slides.md) used at ROSCon España 2025
 
 
 ------
@@ -78,9 +78,9 @@ Each project includes open-source code, step-by-step build instructions, and ROS
 ### Resources
 
 - [About the talk](./sensores/about.md)
+- Slides used at ROSCon España 2025: [ROSConES25_Sensores_para_tiesos_v1.3_ONLINE.pptx](https://1drv.ms/p/c/6d3f578aa3de1a64/EUpYVlq8MdxCh3DpyzALr4cBstADo_7hRMHgbMS887zQxw?e=jFxI58) (Link to OneDrive, large file)
 - [Source code](./sensores/code.md)
 - [Notes](./sensores/notes.md) including setup instructions to reproduce the demos and references and links to related projects and repositories
-- [Slides](./sensores/slides.md) used at ROSCon España 2025
 
 ------
 
@@ -88,4 +88,4 @@ Each project includes open-source code, step-by-step build instructions, and ROS
 
 Original contributions (code, notes, etc) are provided for educational and community use under an open-source license. External resources quoted or linked from the repo are subject to their own licensing terms.
 
-Special thanks to the ROS 2 and LeRobot communities, and to everyone contributing to accessible, open robotics.
+Special thanks to the [ROS2](https://www.ros.org/) and [LeRobot](https://huggingface.co/lerobot) communities, and to everyone contributing to accessible, open robotics.
